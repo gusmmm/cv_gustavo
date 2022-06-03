@@ -1,4 +1,4 @@
 theme: "hugo-PaperMod"
-baseURL: http://example.org/
+baseURL: https://cv-gustavo.netlify.app
 languageCode: en-us
 title: My New Hugo Site
