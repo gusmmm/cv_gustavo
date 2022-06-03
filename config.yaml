@@ -3,6 +3,10 @@ baseURL: https://cv-gustavo.netlify.app/
 languageCode: en-us
 title: CV José Gustavo Martins
 
+params:
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+
 menu:
   main:
     - identifier: categories
