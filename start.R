@@ -7,3 +7,5 @@
 # http://localhost:3648
 # para parar o server blogdown::stop_server() 
 
+### criar um novo post
+# no menu addins em cima

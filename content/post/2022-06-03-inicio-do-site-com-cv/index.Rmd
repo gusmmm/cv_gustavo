@@ -1,0 +1,9 @@
+---
+title: Inicio do site com CV
+author: Gustavo M
+date: '2022-06-03'
+tags: ["text"]
+---
+
+This website will be my online live CV.
+It's written in hugo using Rstudio's blogdown and hugo.
