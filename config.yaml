@@ -17,3 +17,7 @@ menu:
       name: Archives
       url: /archives/
       weight: 20 
+    - identifier: curriculum
+      name: Curriculum
+      weight: 30
+      url: /curriculum/
